@@ -1,0 +1,15 @@
+.card {
+  background-color: white;
+  box-shadow: 2px 2px #888888;
+  display: flex;
+  flex-direction: row;
+  min-height: 70px;
+  border-radius: 0px 5px 0px 5px;
+  margin: 10px 0px;
+  position: relative; }
+  .card .card-description {
+    width: 90%;
+    border: none;
+    resize: none;
+    border-radius: 5px;
+    cursor: default; }
